@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PeopleCard Component changes the class when hovered 1`] = `
+<div
+  className="card"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <img
+    alt="Avatar"
+    className="dark:invert"
+    data-nimg="1"
+    decoding="async"
+    height={24}
+    loading="lazy"
+    onError={[Function]}
+    onLoad={[Function]}
+    src="/_next/image?url=https%3A%2F%2Frobohash.org%2Fveniamquiaest.png%3Fsize%3D300x300%26set%3Dset1&w=256&q=75"
+    srcSet="/_next/image?url=https%3A%2F%2Frobohash.org%2Fveniamquiaest.png%3Fsize%3D300x300%26set%3Dset1&w=128&q=75 1x, /_next/image?url=https%3A%2F%2Frobohash.org%2Fveniamquiaest.png%3Fsize%3D300x300%26set%3Dset1&w=256&q=75 2x"
+    style={
+      {
+        "color": "transparent",
+      }
+    }
+    width={100}
+  />
+  <h2>
+    Lenard Becker
+  </h2>
+  <h2>
+    Non-binary
+  </h2>
+  <h2>
+    1965-07-05
+  </h2>
+</div>
+`;
+
+exports[`PeopleCard Component changes the class when hovered 2`] = `
+<div
+  className="card"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <img
+    alt="Avatar"
+    className="dark:invert"
+    data-nimg="1"
+    decoding="async"
+    height={24}
+    loading="lazy"
+    onError={[Function]}
+    onLoad={[Function]}
+    src="/_next/image?url=https%3A%2F%2Frobohash.org%2Fveniamquiaest.png%3Fsize%3D300x300%26set%3Dset1&w=256&q=75"
+    srcSet="/_next/image?url=https%3A%2F%2Frobohash.org%2Fveniamquiaest.png%3Fsize%3D300x300%26set%3Dset1&w=128&q=75 1x, /_next/image?url=https%3A%2F%2Frobohash.org%2Fveniamquiaest.png%3Fsize%3D300x300%26set%3Dset1&w=256&q=75 2x"
+    style={
+      {
+        "color": "transparent",
+      }
+    }
+    width={100}
+  />
+  <h2>
+    Lenard Becker
+  </h2>
+  <h2>
+    Non-binary
+  </h2>
+  <h2>
+    1965-07-05
+  </h2>
+  <div>
+    Uid
+     : 
+    32bca3d9-8e59-4112-96a1-427aa0becf9d
+  </div>
+  <div>
+    Password
+     : 
+    eEzZUPuc7x
+  </div>
+  <div>
+    Username
+     : 
+    lenard.becker
+  </div>
+  <div>
+    Email
+     : 
+    lenard.becker@email.com
+  </div>
+  <div>
+    PhoneNumber
+     : 
+    +91 269.293.4385 x86321
+  </div>
+  <div>
+    SocialInsuranceNumber
+     : 
+    708732342
+  </div>
+</div>
+`;
+
+exports[`PeopleCard Component changes the class when hovered 3`] = `
+<div
+  className="card"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <img
+    alt="Avatar"
+    className="dark:invert"
+    data-nimg="1"
+    decoding="async"
+    height={24}
+    loading="lazy"
+    onError={[Function]}
+    onLoad={[Function]}
+    src="/_next/image?url=https%3A%2F%2Frobohash.org%2Fveniamquiaest.png%3Fsize%3D300x300%26set%3Dset1&w=256&q=75"
+    srcSet="/_next/image?url=https%3A%2F%2Frobohash.org%2Fveniamquiaest.png%3Fsize%3D300x300%26set%3Dset1&w=128&q=75 1x, /_next/image?url=https%3A%2F%2Frobohash.org%2Fveniamquiaest.png%3Fsize%3D300x300%26set%3Dset1&w=256&q=75 2x"
+    style={
+      {
+        "color": "transparent",
+      }
+    }
+    width={100}
+  />
+  <h2>
+    Lenard Becker
+  </h2>
+  <h2>
+    Non-binary
+  </h2>
+  <h2>
+    1965-07-05
+  </h2>
+</div>
+`;
